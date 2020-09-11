@@ -2,4 +2,4 @@
 
 Hi Everyone!
 
-This is my first project
+This is my first project on HTML and CSS
