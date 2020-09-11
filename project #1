@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Tortoise and the Elephant</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--  using <meta & base> tag for extra credit -->
+	<meta name="keywords" content="stories, africa, tortoise, animal kingdom"> 
+	<!-- i place my content value on 2100 because of the video on the page -->
+	<meta http-equiv="refresh" content="2100">
+	<meta name="author" content="Emiko Joshua">
+	<base target="_blank">
+</head>
+<body>
+
+	<!-- Start of my article -->
+	<article>
+		
+	<!-- Start of my header  -->
+	<header>
+		<h1>The Tortoise and the Elephant</h1>
+	</header> 
+	<!-- end of my header  -->
+
+	<!-- start of section 1-->
+		<section>
+			<p>
+				<blockquote cite="http://www.allfolktales.com/wafrica/tortoise_and_elephant.php">There was a great <strong>King</strong> who ruled in the village of <em>Gbogan</em> a long long time ago at a time when animals could talk. The King took very ill for a long period of time and was at the point of death. After several attempts by medicine men from within the kingdom to heal the king failed, <q>Ikumejakako</q>, the dreaded herbalist who dwelt in the evil forest was consulted. He examining the king and pronounced that the king would have to take a special brew made of elephant body parts or <strong>die</strong> within seven days.</blockquote>
+			</p>
+		</section>
+		<!-- end of section 1-->
+
+		<!-- start of section 2-->
+		<section>
+			<p>The King and his chiefs wondered how they would capture a big and dangerous animal like an <em>elephant</em>. The king after consultation with his chiefs made an announcement throughout the kingdom that anyone who would capture an <q>elephant within seven days would get half of the kingdom and his beautiful daughter as a bride</q>.</p>
+		</section>
+		<!-- end of section 2-->
+
+		<!-- start of section 3-->
+		<section>
+			<p>The tortoise came forward to accept the challenge. He made a request of the King, that a very deep pit be dug and that the pit should be concealed with raffia and mats and that a throne fit for a king should be set on top of the pit. The tortoise made some <q>akara</q> balls (bean cakes) and set out into the forest in search of an elephant. <br> <img src="tortoise.jpg" alt="tortoise wandring through the forest"> <br>
+			The wandered through the forest making enquiries of his fellow animals until the third day when he stumbled on an elephant resting under a tree.</p>
+		</section>
+		<!-- end of section 3-->
+
+		<!-- start of section 4-->
+		<section>
+			<p>
+				Tortoise: Elephant, what are you doing here <q>haven</q>t you heard the news? <br>
+				Elephant: What news? Do not disturb my siesta tortoise, I do not like gossip. <br>
+				Tortoise: I don't believe my eyes, a whole <strong>King</strong>, resting in the forest under a shade!!<br>
+				Elephant: <em>A King, what King</em>?<br>
+				Tortoise: <strong>YOU</strong>!! The king is dead and the elders have decided to make you king over the people.<br>
+				Elephant: (roars with laughter). You must be a joker tortoise, who would want to make an old ugly elephant like me a king?.<br>
+				Tortoise: There is no time for explanations, preparations are already at an advanced stage in the kingdom for your coronation, we must make haste, see, I have proof (he brought out one of the <q>akara</q> balls and handed one over to the elephant) This akara is only a small part of the delicacies being prepared for your coronation. <br>
+				Elephant: (putting the akara into his mouth) Hmmmmm!. this is delicious really delicious it must be true, lets make haste.
+			</p>
+		</section>
+		<!-- end of section 4-->
+
+		<!-- start of section 5-->
+		<section>
+			<p>And so the tortoise led the elephant all the way to the village handing out the akara balls to him at intervals and singing popular coronation songs to him all the way.</p>
+		</section>
+		<!-- end of section 5-->
+
+		<!-- start of section 6-->
+		<section>
+			<p>As the tortoise and the elephant approached the palace, news of the capture of the elephant spread like wild fire, everybody came out of their <em>houses</em> and started following the duo to the palace joyous and joining in tortoise's songs. This all created an atmosphere of festivities reinforcing the belief in the elephant's mind that he was to be made king.</p>
+		</section>
+		<!-- end of section 6-->
+
+		<!-- start of section 7-->
+		<section>
+			<p>Elephant: Your story must be true, the people are really joyous to see me. <br>
+			Tortoise: You know I wouldn't lie to you, can't you see them singing that your reign shall be long.</p>
+		</section>
+		<!-- end of section 7-->
+
+		<!-- start of section 8-->
+		<section>
+			<p>As the throne finally came into sight, the elephant lumbered into it majestically amidst dancing and singing. He sat on the throne and instantly the ground gave way beneath him and he fell into the pit. The king's warriors immediately descended upon him with spears and clubs and butchered him. Once the king had taken a sip of the elephant broth made for him, he became instantly well and fulfilled his promise towards the tortoise.</p>
+		</section>
+		<!-- end of section 8-->
+		<!-- end of sections -->
+
+		<!-- start of aside-->
+		<aside>
+			<!-- tags that i make used of: <q> <blockquote> <br> <article> <section> <aside>-->
+			<!-- unordered list -->
+			<div>
+				<h2>Tags for assignment</h2>
+				<ul>
+					<li>q</li>
+					<li>blockquote</li>
+					<li>br</li>
+					<li>article</li>
+					<li>section</li>
+					<li>aside</li>
+				</ul>
+				<!-- end of my unordered lists -->
+			</div>
+		</aside>
+		<!-- end of aside -->
+	</article>
+	<!-- end of my article -->
+
+
+	<!-- For extra credits -->
+		<!-- video tag-->
+		<div>
+		<video controls width="600" height="340" autoplay title="SCOAN TB Joshua">
+			<source src="THE_MOST_POWERFUL_CHURCH_SERVICE_EVER!.mp4" type="video/MP4">
+			If you can see this update your browser!.
+		</video>
+		</div> <br>
+
+		<div>
+		<!-- The audio tag -->
+		<audio controls>
+			<source src="Our-God-Is-Indescribable.mp3" type="audio/mpeg">
+		</audio>
+		</div><br>
+
+		<!-- my form tag -->
+		<div>
+			<form action="story_page.php">
+				<label for="fruits">Choose your favourite fruit</label>
+				<select name="fruits">
+					<option value="mango">Mango</option>
+					<option value="pawpas">Pawpas</option>
+					<option value="banana">Banana</option>
+					<option value="apple">Apple</option>
+					<option value="blackberries">Blackberries</option>
+					<option value="blueberries">Blueberries</option>
+					<option value="cherry">Cherry</option>
+					<option value="grape">Grape</option>
+					<option value="guava">Guava</option>
+					<option value="kiwi">Kiwi</option>
+				</select>
+				<input type="submit">
+			</form>
+		</div> <br>
+		<!-- end of form tag. -->
+
+			
+		<!-- iframe tag -->
+		<div>
+			<iframe src="story.html" title="Iframe of my first project with pirple" height="200" width="300"></iframe>
+		</div>
+
+		<!-- Share -->
+		<div>
+			<p>
+				This page was built with HTML and (HTML) is the standard markup language for Web pages with HTML you can create Website. HTML is the skeleton of every website HTML describes the structure of a Web page.</p>
+			<p>
+				I've learn how to overcome obstacles, time management I’m self-motivated i do a lot of researches, confident, reasoning and listening now
+			</p>
+			<p>
+				HTML consists of a series of elements —  these are tags. and tell the browser how to display the content. HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a list", etc.
+			</p>
+		</div>
+
+</body>
+</html>
