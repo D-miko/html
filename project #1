@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--  using <meta & base> tag for extra credit -->
 	<meta name="keywords" content="stories, africa, tortoise, animal kingdom"> 
-	<!-- i place my content value on 2100 because of the video on the page -->
-	<meta http-equiv="refresh" content="2100">
+	<!-- i place my content value on 600 because of the video on the page -->
+	<meta http-equiv="refresh" content="600">
 	<meta name="author" content="Emiko Joshua">
 	<base target="_blank">
 </head>
@@ -109,8 +109,9 @@
 	<!-- For extra credits -->
 		<!-- video tag-->
 		<div>
-		<video controls width="600" height="340" autoplay title="SCOAN TB Joshua">
-			<source src="HOW-TO-PRAY-TB-Joshua.mp4" type="video/MP4">
+		<video controls width="798" height="449" autoplay title="SCOAN TB Joshua">
+			<!--  -->
+			<source src="What-You Do Before-you-Sleep-Matters-TB-Joshua.mp4" type="video/MP4">
 			If you can see this update your browser!.
 		</video>
 		</div> <br>
@@ -118,7 +119,7 @@
 		<div>
 		<!-- The audio tag -->
 		<audio controls>
-			<source src="Our-God-Is-Indescribable.mp3" type="audio/mpeg">
+			<source src="You-Raise-Me-Up.mp3" type="audio/mpeg">
 		</audio>
 		</div><br>
 
