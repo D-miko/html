@@ -150,7 +150,7 @@
 		</div>
 
 		<!-- Share -->
-		<div>
+		<!--<div>
 			<p>
 				This page was built with HTML and (HTML) is the standard markup language for Web pages with HTML you can create Website. HTML is the skeleton of every website HTML describes the structure of a Web page.</p>
 			<p>
@@ -159,7 +159,7 @@
 			<p>
 				HTML consists of a series of elements —  these are tags. and tell the browser how to display the content. HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a list", etc.
 			</p>
-		</div>
+		</div> -->
 
 </body>
 </html>
